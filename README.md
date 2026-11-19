@@ -16,3 +16,5 @@ The template camera/light scene is retained. The mandatory separate **Intro**, *
 Gameplay configuration must use typed `Assets/SO/<Type>/` folders and SO-suffixed definitions, created when corresponding features are implemented. Repeated content must use prefab composition. No gameplay configuration or placeholder prefabs are scaffolded.
 
 Player builds and CI setup require a separate explicit request.
+
+Verification: [bootstrap report](Documentation/Engineering/Reports/2026-11-19-project-bootstrap.md).
